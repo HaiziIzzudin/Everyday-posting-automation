@@ -1,0 +1,29 @@
+{
+  "name": "Smallen text",
+  "description": "Add Description",
+  "actions": [
+    {
+      "name": "pointer1",
+      "ticks": [
+        {
+          "id": "1.1",
+          "type": "pointerMove",
+          "x": 3,
+          "y": 25,
+          "duration": 0
+        },
+        {
+          "id": "1.2",
+          "type": "pointerMove",
+          "x": 3,
+          "y": 35,
+          "duration": 168
+        }
+      ],
+      "color": "#FF3333",
+      "id": "1"
+    }
+  ],
+  "id": "a33085d4-a845-439b-a714-5216077418d1",
+  "date": 1734853695110
+}

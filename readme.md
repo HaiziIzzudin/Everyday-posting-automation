@@ -13,3 +13,7 @@ export ANDROID_HOME="$HOME/appium"
 export JAVA_HOME="$HOME/appium/jdk-9.0.4"
 ```
 7. restart shell `bash -s`
+
+
+# make sure npm has been installed
+appium
